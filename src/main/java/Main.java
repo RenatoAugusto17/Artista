@@ -13,17 +13,17 @@ System.out.println("######################");
     System.out.println("Músicas do Albúm:");
     System.out.println("");
     System.out.println("Nome----Duração");
-    System.out.println("Papercut - 3:04");
-    System.out.println("One Step Closer - 2:35");
-    System.out.println("With You - 3:23");
+    System.out.println("Papercut            - 3:04");
+    System.out.println("One Step Closer     - 2:35");
+    System.out.println("With You            - 3:23");
     System.out.println("Points of Authority - 3:20");
-    System.out.println("Crawling - 3:29");
-    System.out.println("Runaway - 3:03");
-    System.out.println("By Myself - 3:09");
-    System.out.println("In the End - 3:36");
+    System.out.println("Crawling            - 3:29");
+    System.out.println("Runaway             - 3:03");
+    System.out.println("By Myself           - 3:09");
+    System.out.println("In the End          - 3:36");
     System.out.println("A Place for My Head - 3:04");
-    System.out.println("Forgotten - 3:14");
-    System.out.println("Cure for the Itch - 2:37");
-    System.out.println("Pushing me Away - 3:11");
+    System.out.println("Forgotten           - 3:14");
+    System.out.println("Cure for the Itch   - 2:37");
+    System.out.println("Pushing me Away     - 3:11");
   }
 }
